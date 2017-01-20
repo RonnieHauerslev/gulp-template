@@ -1,0 +1,51 @@
+{
+  "name": "gulp-template",
+  "version": "0.0.1",
+  "description": "Simpelt gulp template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonnieHauerslev/gulp-template.git"
+  },
+  "keywords": [
+    "gulp",
+    "node.js",
+    "template"
+  ],
+  "author": "Ronnie Hauerslev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RonnieHauerslev/gulp-template/issues"
+  },
+  "homepage": "https://github.com/RonnieHauerslev/gulp-template#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "cache": "^1.1.2",
+    "clean-css": "^3.4.23",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cached": "^1.1.1",
+    "gulp-changed": "^1.3.2",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-inject": "^4.2.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-partials-imported": "^1.0.5",
+    "gulp-strip-debug": "^1.1.0",
+    "gulp-uglify": "^2.0.0",
+    "htmlmin": "0.0.7",
+    "jshint": "^2.9.4"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  }
+}
